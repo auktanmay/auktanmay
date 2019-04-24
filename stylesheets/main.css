@@ -37,7 +37,7 @@
   backface-visibility: hidden;
   margin-left: 0;
   margin-right: 0;
-  background-size: cover;
+  background-size: 100%;
   position: inline;
 }
 .secimage{
