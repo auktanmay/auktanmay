@@ -37,8 +37,10 @@
   backface-visibility: hidden;
   margin-left: 0;
   margin-right: 0;
+  background-size: cover;
+  width: 1536px;
+  height: 90%;
   position: inline;
-  background-size: 25%;
 }
 .secimage{
   transition: .5s ease;
