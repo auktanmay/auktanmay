@@ -1,5 +1,6 @@
 table#1 {
   background-color: white;
+  border: 5px black;
 }
 th{
 text-align:center;
